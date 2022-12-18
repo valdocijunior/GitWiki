@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/GitWiki/static/js/main.ce45c942.js",
+    "static/media/github.png": "/GitWiki/static/media/github.4d74fd76ac168df7723c.png",
+    "index.html": "/GitWiki/index.html",
+    "main.ce45c942.js.map": "/GitWiki/static/js/main.ce45c942.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ce45c942.js"
+  ]
+}
